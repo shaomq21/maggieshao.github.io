@@ -83,8 +83,8 @@ export default function Home() {
           <Image
             src="/profile.jpg"
             alt="profile"
-            width={420}
-            height={520}
+            width={664}
+            height={1040}
             className="w-full object-cover rounded-sm"
           />
 
@@ -138,7 +138,7 @@ export default function Home() {
           <div>
 
             <Image
-              src="/weco.png"
+              src="/weco.jpg"
               alt="weco"
               width={500}
               height={300}
