@@ -7,17 +7,7 @@ html {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
   background: white;
-  color: black;
-}
-
-a {
-  color: #2563eb;
-}
-
-.container-custom {
-  max-width: 1000px;
-  margin: auto;
-  padding: 40px 24px;
+  color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
 }
